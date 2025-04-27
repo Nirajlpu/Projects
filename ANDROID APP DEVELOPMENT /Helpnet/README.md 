@@ -1,0 +1,19 @@
+HelpNet – Android App
+
+Overview
+
+HelpNet is an Android app designed to provide quick assistance and resources in emergency situations. The app connects users with help services, offers access to safety information, and provides an easy way to contact emergency responders like police, medical services, or fire departments.
+
+Features
+	•	SOS Button: Allows users to send an emergency alert to pre-defined contacts or emergency services with one tap.
+	•	Location Sharing: Automatically sends the user’s current location to responders during emergencies.
+	•	Emergency Numbers: A list of important emergency contacts for various services (police, medical, fire).
+	•	Help Resources: Provides safety tips, first-aid guides, and quick access to helpful resources.
+	•	Push Notifications: Alerts users about nearby emergency situations or alerts relevant to their location.
+	•	Real-time Assistance: Connects users directly to the nearest emergency response teams.
+
+Tech Stack
+	•	Android Development: Kotlin, Java
+	•	Location Services: Google Maps API, Fused Location Provider API
+	•	Backend: Firebase for authentication, push notifications, and database management
+	•	UI/UX: Material Design for intuitive user interface
