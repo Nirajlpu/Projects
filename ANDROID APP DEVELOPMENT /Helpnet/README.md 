@@ -55,7 +55,7 @@ Community alert system with verified responder network
 
 5G-enabled ultra-low latency command system
 
-🛠 Technical Specifications
+Technical Specifications
 Mobile Component
 Platform: Android 10+ (Kotlin)
 
@@ -78,7 +78,7 @@ LiDAR for 3D mapping
 
 Decibel meter for gunshot detection
 
-📲 User Flow
+User Flow
 sequenceDiagram
     User->>App: Triggers SOS (5x power button)
     App->>Control Center: Encrypted location/data packet
@@ -87,7 +87,7 @@ sequenceDiagram
     Drone->>Control Center: Live HD stream
     Control Center->>Police: Verified alert
     Police->>Location: Ground response
-🚀 Future Roadmap
+Future Roadmap
 2024 Q4
 Wearable integration (smart watches/rings)
 
@@ -102,9 +102,9 @@ AR guidance for first responders
 
 Predictive crime prevention alerts
 
-⚠️ Legal Notice
-The drone response system described is patent-pending (Application No. [YOUR_PATENT_NUMBER]). Unauthorized commercial implementation is prohibited.
+Legal Notice
+The drone response system described is patent. Unauthorized commercial implementation is prohibited.
 
-📧 Contact
+Contact
 For partnership inquiries or technical questions:
 [nirajsahani2004@gmail.com] | [6202714697]
