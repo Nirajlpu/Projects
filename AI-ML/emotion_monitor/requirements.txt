@@ -1,5 +1,5 @@
 PyQt5==5.15.7
-opencv-python==4.5.5.64
+opencv-python==4.8.1.78
 deepface==0.0.79
 matplotlib==3.5.2
 numpy==1.22.3
