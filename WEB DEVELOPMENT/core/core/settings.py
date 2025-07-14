@@ -46,7 +46,7 @@ INSTALLED_APPS = [
 EXTERNAL_APPS=[
     'home',
     'accounts',
-    'vege',
+    
 
 ]
 
@@ -70,8 +70,8 @@ TEMPLATES = [
         "BACKEND": "django.template.backends.django.DjangoTemplates",
         "DIRS": [
             BASE_DIR / 'templetes',#for common templete #added manually 
-            BASE_DIR / 'vege/templetes', #added manually 
-            BASE_DIR / 'home/templetes' #added manually
+            BASE_DIR / 'home/templetes', #added manually
+            BASE_DIR / 'accounts/templetes' #added manually
         ],
         "APP_DIRS": True,
         "OPTIONS": {

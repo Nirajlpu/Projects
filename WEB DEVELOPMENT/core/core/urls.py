@@ -34,7 +34,7 @@ urlpatterns = [
     path("admin/", admin.site.urls),
     # add manually
     path('',include('home.urls'))
-    # path('',include('vege.urls'))
+    
 ]
 
 if settings.DEBUG:
