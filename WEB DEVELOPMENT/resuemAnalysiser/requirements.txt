@@ -1,0 +1,9 @@
+django>=4.2
+shutil; python_version>="3.0"
+pdfplumber
+sentence-transformers
+scikit-learn
+openai
+python-dotenv
+gunicorn
+google-generativeai

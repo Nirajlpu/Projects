@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Django Start Project",
+			"type": "shell",
+			"command": "django-admin startproject resume_qa . && python manage.py startapp qa_app",
+			"args": [],
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
