@@ -43,7 +43,6 @@ TalentGem is a Django-based web application that leverages Google Gemini AI to p
 ## Notes
 - Answers are generated using both resume and JD context when available
 - Handles PDF errors, empty questions, and session management
-- For production, set `DEBUG = False` and configure allowed hosts
 
 ## Example Use Cases
 - Screen and compare candidates against a job description
