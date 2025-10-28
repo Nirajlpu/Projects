@@ -35,6 +35,28 @@ ENV/
 .DS_Store
 Thumbs.db
 
+# macOS specific
+# resource forks
+._*
+.AppleDouble
+# Spotlight index
+.Spotlight-V100/
+# Trash
+.Trashes/
+# Time Machine / document revisions
+.DocumentRevisions-V100/
+# File system events
+.fseventsd/
+# Volume icon
+.VolumeIcon.icns
+# Temporary items
+.TemporaryItems/
+# Apple DB / desktop
+.AppleDB
+.AppleDesktop
+# ApDisk (older mac disks)
+.apdisk
+
 # Jupyter
 .ipynb_checkpoints
 

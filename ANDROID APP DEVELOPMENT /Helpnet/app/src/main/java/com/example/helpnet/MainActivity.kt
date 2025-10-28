@@ -64,7 +64,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main2)
+        setContentView(R.layout.activity_main)
 
         // Initialize UI elements
         liveLocationEditText = findViewById(R.id.liveLocation)
@@ -531,7 +531,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    // Local EmergencyContact class for MainActivity
+//     Local EmergencyContact class for MainActivity
     data class EmergencyContact(
         val name: String,
         val phoneNumber: String,
